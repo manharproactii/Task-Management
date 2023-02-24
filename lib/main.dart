@@ -6,7 +6,7 @@ import 'package:flutter_mentions/flutter_mentions.dart';
 import 'package:get/get.dart';
 import 'package:html_editor_enhanced/html_editor.dart';
 import 'package:task_management/pages/login/login_screen.dart';
-
+import '../../config/theme.dart';
 import 'bindings/main_binding.dart';
 import 'routes/navigation.dart';
 
