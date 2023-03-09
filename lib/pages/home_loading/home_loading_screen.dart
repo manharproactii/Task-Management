@@ -1382,6 +1382,7 @@ class _HomeLoadingScreenState extends State<HomeLoadingScreen> {
           ),
         ));
   }
+  // test
 
   body(HomeController homeController) {
     return PageView(
